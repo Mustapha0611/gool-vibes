@@ -2,7 +2,7 @@
   <main>
     <Splide :options="options" :hasTracker="false">
       <SplideSlide v-for="img of imgs" class="h-auto text-white">
-        <img :src="img.avatar" alt="slider images" class="w-full h-full" data-aos="zoom-out"  data-aos-delay="300" />
+        <img :src="img.avatar" alt="slider images" class="w-full h-full" data-aos="zoom-in"  data-aos-delay="300" />
         <!-- <h3 class="text-center font-semibold text-2xl play">{{ review.title }}</h3> -->
       </SplideSlide>
     </Splide>

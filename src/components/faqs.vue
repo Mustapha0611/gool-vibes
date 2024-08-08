@@ -1,15 +1,15 @@
 <template>
   <div
-    class="flex justify-center items-center gap-2 pt-20 bg-[#E2CEF4] flex-col lg:px-44 md:px-10 px-2 text-center"
+    class="flex justify-center items-center gap-2 pt-20 bg-[#E2CEF4] flex-col lg:px-44 md:px-10 px-5 text-center"
   >
     <h1 class="text-xl font-extrabold">FAQS</h1>
-    <h2 class="text-2xl">Have a Question? Scan through our Frequently Asked</h2>
+    <h2 class="md:text-2xl text-xl">Have a Question? Scan through our Frequently Asked</h2>
     <p class="lg:px-52 md:px-32">
       If you can't find what you're looking for, feel free to reach out to our
       support team. We're here to help you with any queries or issues you might
       have, ensuring you get the most out of your experience with our app.
     </p>
-    <main id="faqs" class="lg:px-[10%] md:px-[5%] px-2 bg-pattern relative w-full h-[700px]">
+    <main id="faqs" class="lg:px-[10%] md:px-[5%]  pb-10 md:pb-0 bg-pattern relative w-full md:h-[700px] h-auto">
       <div class="md:px-20">
         <div class="accordion">
           <div

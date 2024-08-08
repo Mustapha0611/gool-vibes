@@ -19,21 +19,21 @@
         class="flex lg:gap-8 md:gap-4 gap-8 md:flex-row flex-col text-base text-white font-light"
       >
         <li>
-          <RouterLink to="" class="flex items-center gap-2"
+          <RouterLink to="" data-aos="fade-in" data-aos-delay="200" class="flex items-center gap-2"
             ><span class="border-2 border-slate-50 px-2 py-1.5 rounded-full"
               >01</span
             >Feature</RouterLink
           >
         </li>
         <li>
-          <RouterLink to="" class="flex items-center gap-2"
+          <RouterLink to="" data-aos="fade-in" data-aos-delay="300" class="flex items-center gap-2"
             ><span class="border-2 border-slate-50 px-2 py-1.5 rounded-full"
               >02</span
             >Feature</RouterLink
           >
         </li>
         <li>
-          <RouterLink to="" class="flex items-center gap-2"
+          <RouterLink to="" data-aos="fade-in" data-aos-delay="400" class="flex items-center gap-2"
             >Feature<span
               class="border-2 border-slate-50 px-2 py-1.5 rounded-full"
               >03</span
@@ -41,7 +41,7 @@
           >
         </li>
         <li>
-          <RouterLink to="" class="flex items-center gap-2"
+          <RouterLink to="" data-aos="fade-in" data-aos-delay="500" class="flex items-center gap-2"
             ><span class=""
               ><img src="@/assets/faq.png" alt="faq" class="w-7 h-7" /></span
             ><span>FAQ</span></RouterLink

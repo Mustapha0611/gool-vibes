@@ -10,7 +10,7 @@
       
     </section>
     <section class="flex-1">
-      <div class="w-full h-[350px]" data-aos="fade-right">
+      <div class="w-full md:h-[350px] h-[310px]" data-aos="fade-right">
         <img
           src="@/assets/vid.png"
           alt="hero image"

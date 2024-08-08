@@ -1,6 +1,6 @@
 <template>
   <div class="flex items-center flex-col lg:flex-row justify-center lg:h-[100dvh]  w-full md:px-28">
-    <section class="lg:w-[64%] w-[100%] md:h-[550px] h-[400px]">
+    <section class="lg:w-[64%] w-[100%] md:h-[550px] h-[350px]">
       
         <img src="@/assets/phones.png" alt="phones" data-aos="zoom-in" data-aos-duration="1000" class="w-full h-full" />
       

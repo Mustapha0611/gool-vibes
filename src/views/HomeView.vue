@@ -9,10 +9,10 @@ import faqs from '@/components/faqs.vue'
 import features from '@/components/features.vue'
 </script>
 <template>
-  <hero />
-  <imgSlide />
-  <features />
-  <videocall  />
+  <hero class="" />
+  <imgSlide class="" />
+  <features class="overflow-hidden" />
+  <videocall />
   <mediaSharing />
   <faqs />
   <download />
