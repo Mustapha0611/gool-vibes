@@ -41,10 +41,10 @@
           >
         </li>
         <li>
-          <RouterLink to="" data-aos="fade-in" data-aos-delay="500" class="flex items-center gap-2"
+          <a href="#faqs" data-aos="fade-in" data-aos-delay="500" class="flex items-center gap-2"
             ><span class=""
               ><img src="@/assets/faq.png" alt="faq" class="w-7 h-7" /></span
-            ><span>FAQ</span></RouterLink
+            ><span>FAQ</span></a
           >
         </li>
       </ul>

@@ -1,6 +1,7 @@
 <template>
   <div
     class="flex justify-center items-center gap-2 pt-20 bg-[#E2CEF4] flex-col lg:px-44 md:px-10 px-5 text-center"
+    id="faqs"
   >
     <h1 class="text-xl font-extrabold">FAQS</h1>
     <h2 class="md:text-2xl text-xl">Have a Question? Scan through our Frequently Asked</h2>
@@ -15,8 +16,8 @@
           <div
             v-for="(item, index) in items"
             :key="index"
-            class="accordion-item rounded-lg shadow-indigo-800 transition-all"
-            :class="{'bg-[#624DF3] transition-all': item.open}"
+            class="accordion-item rounded-lg shadow-indigo-800 transition-all duration-500"
+            :class="{'bg-[#624DF3] transition-all duration-500': item.open}"
             
           >
             <div

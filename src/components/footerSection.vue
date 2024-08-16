@@ -30,7 +30,7 @@
     </section>
     </div>
     <div class="flex py-10 lg:px-56 md:px-32 text-xs lg:text-base px-5 justify-between text-gray-400">
-        <span>© Copyright 2022, All Rights Reserved</span>
+        <span>© Copyright 2024, All Rights Reserved</span>
         <section class="flex gap-20">
             <span>
                 Privacy Policy
