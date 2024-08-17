@@ -16,7 +16,7 @@
           <div
             v-for="(item, index) in items"
             :key="index"
-            class="accordion-item rounded-lg shadow-indigo-800 transition-all duration-500"
+            class="accordion-item rounded-lg shadow-indigo-800 transition-all duration-100 delay-200"
             :class="{'bg-[#624DF3] transition-all duration-500': item.open}"
             
           >
